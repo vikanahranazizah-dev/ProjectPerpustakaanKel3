@@ -82,6 +82,4 @@ class Perpustakaan:
     
             self.simpan_data()
             print("Buku berhasil diperbarui.")
-
-    
     
